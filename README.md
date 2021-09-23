@@ -1,2 +1,3 @@
 # calctax
-Calculate Greek Taxes
+
+Calculate Greek Taxes by Ted Lazaros
