@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/calctax/static/js/main.b96cce5c.chunk.js",
+    "main.js.map": "/calctax/static/js/main.b96cce5c.chunk.js.map",
+    "runtime-main.js": "/calctax/static/js/runtime-main.28d6a1ce.js",
+    "runtime-main.js.map": "/calctax/static/js/runtime-main.28d6a1ce.js.map",
+    "static/js/2.fd1bd6b2.chunk.js": "/calctax/static/js/2.fd1bd6b2.chunk.js",
+    "static/js/2.fd1bd6b2.chunk.js.map": "/calctax/static/js/2.fd1bd6b2.chunk.js.map",
+    "index.html": "/calctax/index.html",
+    "static/js/2.fd1bd6b2.chunk.js.LICENSE.txt": "/calctax/static/js/2.fd1bd6b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d6a1ce.js",
+    "static/js/2.fd1bd6b2.chunk.js",
+    "static/js/main.b96cce5c.chunk.js"
+  ]
+}
